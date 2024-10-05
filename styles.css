@@ -1,0 +1,34 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background:url(bg.jpg);
+    background-color: transparent;
+  }
+  
+  #resume {
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+    border: 3px solid #f76e6e;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .editable-section {
+    margin-bottom: 20px;
+  }
+  
+  .editable-section p {
+    background-color: #4ef738;
+    padding: 10px;
+    border: 2px solid #241d8b;
+    cursor: text;
+  }
+  h1{
+    font-size: 45px;
+    text-align: center;
+    
+  }
+ h2,h3,h4,h5{
+    font-size: 30px;
+    text-decoration: underline;
+    font-style: italic;
+ }
